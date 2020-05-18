@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/</loc>
+    <lastmod>2020-05-18T06:38:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2020-05-18T06:38:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/test/</loc>
+    <lastmod>2020-05-18T06:38:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
   </url>
   
   <url>
