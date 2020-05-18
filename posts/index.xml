@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Kauan.dev</title>
+        <title>Posts on Kauan Personal Page</title>
         <link>/posts/</link>
-        <description>Recent content in Posts on Kauan.dev</description>
+        <description>Recent content in Posts on Kauan Personal Page</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Mon, 18 May 2020 06:38:00 -0300</lastBuildDate>
